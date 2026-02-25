@@ -14,5 +14,3 @@ C#, .NET MAUI, XAML
 ## Run
 Open in Visual Studio 2022 and press F5.
 
-## Author
-Akram Boughlala
